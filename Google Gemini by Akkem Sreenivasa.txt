@@ -1,0 +1,20 @@
+							Google Gemini
+Creating Free API Keys for Google Gemini Models:-
+ai.google.dev 
+	or
+aistudio.google.com 
+
+Note1:- You need to SignUp in Google Cloud 
+Note2:- You need to create Project in Google Cloud
+
+By
+Akkem Sreenivasa
+eMail: akkemsreenivasa@gmail.com
+YouTube: https://www.youtube.com/@akkemsreenivasa
+Telegram Channel: https://t.me/akkemsreenivasa
+Facebook: https://www.facebook.com/akkemsreenivasa
+Instagram: https://www.instagram.com/akkemsreenivasa/
+LinkedIn: www.linkedin.com/in/akkemsreenivasa
+Twitter: https://x.com/akkemsreenivasa
+GitHub: https://github.com/akkemsreenivasa
+
